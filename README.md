@@ -19,10 +19,8 @@ When I click the save button for that time block, the text for that event is sav
 When I refresh the page, the saved events persist.
 
 ## Feature
-FILL IN
-
-See snapshot: REPLACE IMG BELOW
-<img src="./assets/images/passwordGen_red_screenshot.png" />
+See snapshot: 
+<img src="./assets/images/workday_scheduler_screenshot.png" />
 
 
 https://tracy80s2003.github.io/work-day-scheduler/
